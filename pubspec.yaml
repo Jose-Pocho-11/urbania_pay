@@ -1,0 +1,28 @@
+name: urbania_pay
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: "^0.14.4"
+
+flutter:
+  uses-material-design: true
+
+
+flutter_launcher_icons:
+  android: "urbania_pay"
+  image_path: "assets/icon/icon.png"
+  
+
+  
